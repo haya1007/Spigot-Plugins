@@ -1,0 +1,7 @@
+name: JoinMessage
+version: 1.0
+main: io.github.haya1007.joinmessage.JoinMessage
+api-version: 1.16
+authors: [haya1007]
+description: JoinMessage
+website: https://www.resume.id/haya1007
